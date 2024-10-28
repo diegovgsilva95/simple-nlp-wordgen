@@ -39,4 +39,4 @@ The script will print the generated words to the console.
 ### Future ideas
 The following list annotates possible ideas for this project. They may or may not be implemented one day. You're free to PR them if you want.
 - Improve the modelling, accounting for other patterns as well, such as syllables and consonant-vowel subpatterns (CVC, CVVC, CCV, VCV, etc...). 
-- Convey a mechanism for weighted random choice, instead of relying on top N most-frequent letters.
+- ~~Convey a mechanism for weighted random choice, instead of relying on top N most-frequent letters.~~ Done.
